@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=fabric": { "model": "dimdoors:blockDimWall" },
+    "type=ancient": { "model": "dimdoors:blockDimWallAncient" },
+    "type=altered": { "model": "dimdoors:blockDimWallAltered" }
+  }
+}
